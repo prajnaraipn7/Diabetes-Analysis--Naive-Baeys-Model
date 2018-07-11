@@ -1,4 +1,4 @@
-# Diabetes-Analysis--Naive-Baeys-Model
+# Diabetes-Analysis--Naive-Bayes-Model
 
 The test problem is obtained from Pima Indians Diabetes problem.
 
